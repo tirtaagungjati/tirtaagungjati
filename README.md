@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on Collaborative AI
-- 📫 How to reach me tirtaagungjati18@gmail.com
+- 📫 How to reach me tirtaagungjati19@gmail.com
 
 <!---
 tirtaagungjati/tirtaagungjati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
