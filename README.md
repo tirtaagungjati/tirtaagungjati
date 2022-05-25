@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tirtaagungjati
+- 👋 Hi, I’m Tirta Agung Jati
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on Collaborative AI
