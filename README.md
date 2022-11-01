@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tirta Agung Jati
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python and data science
+- 👀 My focus area in undergraduate informatics is intelligent systems.
+- 🌱 I’m currently learning data science and artificial intelligence
 - 💞️ I’m looking to collaborate on Collaborative AI
 - 📫 How to reach me tirtaagungjati19@gmail.com
 
