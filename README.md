@@ -15,6 +15,8 @@ I am a third-year student in informatics specializing in intelligent systems. I'
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://atlassian.com/" title="Jira"><img src="icons/jira.png" /></a>
 <a href="https://tableau.com/" title="Tableau"><img src="icons/tableau.png" /></a>
+<a href="https://jupyter.org/" title="Jupyter"><img src="icons/jupyter.png" /></a>
+<a href="https://code.visualstudio.com/" title="VSCode"><img src="icons/vscode.png" /></a>
 
 ### Github Statistic
 <p align="left">
