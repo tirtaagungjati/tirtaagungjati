@@ -20,11 +20,17 @@ I am a third-year student in informatics specializing in intelligent systems. I'
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/tirtaagungjati">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tirtaagungjati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tirtaagungjati&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Social Media
+- <a href="https://www.linkedin.com/in/tirta-agung-jati">LinkedIn</a>
+- <a href="http://tirtaagungjati.blogspot.com/">Blog</a>
+- <a href="https://www.instagram.com/tirta.aj/">Instagram</a>
+- <a href="https://www.youtube.com/@tirtaagungjati8704">Youtube</a>
 
 <!---
 tirtaagungjati/tirtaagungjati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
