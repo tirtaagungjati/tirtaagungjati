@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Tirta Agung Jati
 
-I am a third-year student in informatics specializing in intelligent systems. I'm very interested in all things artificial intelligence and have that as my future career goal.
+A fresh graduate with a Bachelor of Computer Science. I have knowledge in software development, database management, and artificial intelligence. Experienced through freelance, internships, bootcamps, and projects. I also have strong problem-solving abilities, work well in a team, and have good communication skills
 
 - 🌱 I’m currently learning data science and artificial intelligence
 - 💬 I’m looking to collaborate on Collaborative AI
-- 📫 How to reach me tirtaagungjati19@gmail.com or https://www.linkedin.com/in/tirta-agung-jati 
+- 📫 How to reach me tirtaagungjati19@gmail.com or https://www.linkedin.com/in/tirta-agung-jati
 
 ### My Skills Include
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
@@ -29,7 +29,8 @@ I am a third-year student in informatics specializing in intelligent systems. I'
 - <a href="https://www.linkedin.com/in/tirta-agung-jati">LinkedIn</a>
 - <a href="http://tirtaagungjati.blogspot.com/">Blog</a>
 - <a href="https://www.instagram.com/tirta.aj/">Instagram</a>
-- <a href="https://www.youtube.com/@tirtaagungjati8704">Youtube</a>
+- <a href="https://www.youtube.com/@tirtaaj">Youtube</a>
+- <a href="https://www.upwork.com/freelancers/~01413ac5e36740fd04?mp_source=share">Upwork</a>
 
 <!---
 tirtaagungjati/tirtaagungjati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
